@@ -1,1 +1,1 @@
-console.log('Be calm, Be patient, Be focused, Dont worry about result')
+console.log(' Be patient,  Be focused, Dont worry about result') 
